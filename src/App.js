@@ -11,7 +11,7 @@ import Grounding from "./components/Grounding";
 import Help from "./components/Help";
 import Entries from "./components/Entries";
 import { SymptomsContext, FeelingContext } from "./components/ContextComponent";
-
+import Chat from "./components/Chat"
 function App() {
   const [checkboxes, setCheckboxes] = useState("");
   const [feel, setFeel] = useState("");
@@ -35,6 +35,7 @@ function App() {
           </FeelingContext.Provider>
         </Switch>
       </Router>
+      <Chat />
     </div>
   );
 }
