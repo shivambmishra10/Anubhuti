@@ -23,7 +23,7 @@ const Header = () => {
         <div className='headerHeader'>
             <button className="headerButton" onClick={Guidance}>Guidance</button>
             <button className="headerButton" onClick={Breathing}>Breathing</button>
-            <button className="headerButton" onClick={Grounding}>Grounding</button>
+            <button className="headerButton" onClick={Grounding}>Medition Room</button>
             <button className="headerButton" onClick={Help}>Find Help</button>
         </div>
     )
