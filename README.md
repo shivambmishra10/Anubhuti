@@ -101,8 +101,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 ## Authors
 
 * **Shivam Mishra** - *CSE student and MERN Stack developer* - [Shivam Mishra](https://github.com/https://github.com/shivambmishra10) - **
-* **Yash Gupta** - *ECE student and MERN Stack developer* - [Yash Gupta](https://github.com/yashgupta0574) - **
-* **Gaurav Gupta** - *ECE Student and MERN Stack developer* - [Gaurav Gupta](https://github.com/gauravgupta1272) - **
+
 
 
 
